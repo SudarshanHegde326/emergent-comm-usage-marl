@@ -1,0 +1,15 @@
+.venv/ 
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pt 
+*.pth 
+*.tar.gz 
+*.zip 
+artifacts/runtime/ 
+**/StarCraftII/ 
+**/Battle.net/ 
+artifacts/logs/ 
+wandb/ 
+**/wandb/ 
+artifacts/tracking/ 
