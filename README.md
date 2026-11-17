@@ -88,7 +88,7 @@ python -c "import torch, pettingzoo, mpe2; print('spread stack ok')"
 python -m pytest tests -q
 ```
 
-Paste the last pytest line you actually get. Do not invent a count.
+
 
 ### B. SMACv2 (StarCraft II required)
 
